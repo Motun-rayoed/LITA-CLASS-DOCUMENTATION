@@ -131,11 +131,12 @@ What are the total sales by product
 What are the total Sales by region
 What are the Average sales by product
 Analysis total product ordered by each region?
-
-
-##data visualization 
-
 Calculate Monthly Sales Trend?
 Calculate the amount of product ordered by each of the region monthly?
 Identify the product with the Highest and Lowest sale by Region?
 What are the percentage of total sales by each region?
+
+
+###data visualization 
+
+
