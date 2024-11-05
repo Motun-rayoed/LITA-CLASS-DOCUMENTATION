@@ -33,3 +33,17 @@ QUANTITY SOLD: The number of units of the product sold in each order. It helps i
 TOTAL REVENUE: The total sales revenue generated from each order. It can be calculated as Quantity Sold * Price per Unit. This is essential for revenue analysis, profit calculations, and sales performance metrics.
 
 *AVEARAGE REVENUE PER PRODUCT: The average revenue generated per product in a given period. This can be calculated by dividing the total revenue by the quantity sold peR PRODUCT
+
+# BASIS STASTICS ABOUT THE DATASET
+Total revenue by product: #2,101,090
+Total Average sales per product: #2,094,317
+Total Quantity sold by product: 68,461
+Region with highest sale total revenue:#927,820
+Top selling Product total revenue:
+Product category : 6
+
+# METHODOLOGY
+## DATA COLLECTION
+The dataset for this project was made available by Konga, Konga, is a leading e-commerce platform in Nigeria , that provide access to anonymized sale data for reseach and learning.
+
+**The data was provide inCSV format, making it easliy accessible for analysis*8
