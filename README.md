@@ -138,6 +138,4 @@ What are the percentage of total sales by each region?
 
 
 ### DATA VISUALIZATION 
-https://github.com/Motun-rayoed/LITA-CLASS-DOCUMENTATION/commit/4010c8f6095635b6821c0728f3863dd4349e64a5
-
-
+https://github.com/Motun-rayoed/LITA-CLASS-DOCUMENTATION/commit/742dfb7ff44d81f7d9a870ebcb1ede34d3ce9d1f
