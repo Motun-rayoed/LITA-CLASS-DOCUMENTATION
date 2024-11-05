@@ -141,5 +141,8 @@ What are the percentage of total sales by each region?
 
 
 
-![excel 1](https://github.com/user-attachments/assets/90e33411-8486-4e22-ba50-4d39fff6910f)
+![Screenshot 2024-11-05 204510](https://github.com/user-attachments/assets/22c0a911-8ec0-452c-bda1-00e95aaaaf37)
+
+
+
 
