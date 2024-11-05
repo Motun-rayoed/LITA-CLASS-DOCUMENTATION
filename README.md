@@ -47,3 +47,63 @@ Product category : 6
 The dataset for this project was made available by Konga, Konga, is a leading e-commerce platform in Nigeria , that provide access to anonymized sale data for reseach and learning.
 
 **The data was provide inCSV format, making it easliy accessible for analysis*8
+
+## DATA MANIPULATION
+DATA CLEANSING
+**All duplicated data were removed using Data validation method.Remove duplicates (Data > Data Validation > Remove Duplicates)
+Handle missing values (Find & Select > Go To Special > Blanks)
+Remove unnecessary characters (Text to Columns, Flash Fill)
+*DATA NORMALIZATION :
+Convert text to uppercase/lowercase (FORMULATEXT, LOWER/UPPER)
+Standardize date formats (Text to Date, DATE function)
+Normalize numeric values (ROUND, TRUNC)
+*Data Transformation:
+Pivot data (PivotTables)
+Transpose data (Paste Special > Transpose)
+Group data (Group By)
+Aggregate data (SUM, AVERAGE, COUNT)
+*Data Merging:
+Combine datasets (VLOOKUP, INDEX-MATCH)
+Merge tables (Power Query, Merge & Append)
+*Data Splitting:
+Split columns (Text to Columns)
+Split rows (Filter, Group By)
+Microsoft Excel Functions:
+
+Text functions: LEN, LEFT, RIGHT, FIND, REPLACE
+Date functions: DATE, DATEDIF, EOMONTH
+Numeric functions: ROUND, TRUNC, RAND
+Logical functions: IF, IFERROR, IFBLANK
+Lookup functions: VLOOKUP, INDEX-MATCH
+Power Query:
+
+Import data (From File, From Database)
+Transform data (Group By, Pivot, Merge)
+Load data (Load To, Load To Worksheet)
+Data Analysis Tools:
+
+PivotTables
+Charts (Column, Line, Bar)
+Conditional Formatting
+Data Validation
+Best Practices:
+
+Document transformations
+Verify data integrity
+Use meaningful column names
+Test transformations
+Version control
+Example Transformations:
+
+Group sales by region =PivotTable (Region, SUM(Sales))
+Common Data Transformation Challenges:
+
+Handling missing values
+Dealing with inconsistent data formats
+Merging large datasets
+Optimizing performance
+
+##DATA CLEANSING AND PREPARATION
+For this project, I will use Microsoft Excel, SQL, and Power Bi with detail data analysis. The data was collected from Fashion retailer stores from FOUR (4) regions from 2023 to 2024. This comprehensive dataset aims to offer insights into shopping habits and provide a valuable understanding of shopping patterns ##PROJECT OBJECTIVE
+
+The primary objective of this data analysis is to comprehend and identify trends in customer purchasing behavior. It will involve analyzing the most frequently used product categories, identifying the region with the highest sales, and examining how sales evolve month by month. In essence, this data analysis will aid in identifying the factors that influence customer behavior
