@@ -103,7 +103,7 @@ Dealing with inconsistent data formats
 Merging large datasets
 Optimizing performance
 
-##DATA CLEANSING AND PREPARATION
+## DATA CLEANSING AND PREPARATION
 For this project, I will use Microsoft Excel, SQL, and Power Bi with detail data analysis. The data was collected from Fashion retailer stores from FOUR (4) regions from 2023 to 2024. This comprehensive dataset aims to offer insights into shopping habits and provide a valuable understanding of shopping patterns ##PROJECT OBJECTIVE
 
 The primary objective of this data analysis is to comprehend and identify trends in customer purchasing behavior. It will involve analyzing the most frequently used product categories, identifying the region with the highest sales, and examining how sales evolve month by month. In essence, this data analysis will aid in identifying the factors that influence customer behavior
