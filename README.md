@@ -107,3 +107,31 @@ Optimizing performance
 For this project, I will use Microsoft Excel, SQL, and Power Bi with detail data analysis. The data was collected from Fashion retailer stores from FOUR (4) regions from 2023 to 2024. This comprehensive dataset aims to offer insights into shopping habits and provide a valuable understanding of shopping patterns ##PROJECT OBJECTIVE
 
 The primary objective of this data analysis is to comprehend and identify trends in customer purchasing behavior. It will involve analyzing the most frequently used product categories, identifying the region with the highest sales, and examining how sales evolve month by month. In essence, this data analysis will aid in identifying the factors that influence customer behavior
+### How much is the total revenue by product?
+To obtain the results, Microsoft Excel formulas was used
+
+Total Revenue by Product= Quantity Sold*Price per Unit
+Total Revenue by Product= F2*G2
+Where F2 represent the quantity Sold and G2 represent Price per Unit
+
+PIVOT TABLE : Pivot table will be used to work on Data calculated suing excel formulas such data summarization, Data Filtering. Comparison, data reshaping and proper Analysis
+
+TOOLS USED
+Microsoft Excel
+SQL
+Pewer BI
+ANALYSIS QUESTIONS
+Excel formulas are used to calculate metrics;
+
+What is the Total Average sales per product
+What is the Total revenue by region
+pivot table to used to extract;
+
+What are the total sales by product
+What are the total Sales by region
+What are the Average sales by product
+Analysis total product ordered by each region?
+Calculate Monthly Sales Trend?
+Calculate the amount of product ordered by each of the region monthly?
+Identify the product with the Highest and Lowest sale by Region?
+What are the percentage of total sales by each region?
