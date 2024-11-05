@@ -138,5 +138,8 @@ What are the percentage of total sales by each region?
 
 
 ### DATA VISUALIZATION 
+
+
+
 ![excel 1](https://github.com/user-attachments/assets/90e33411-8486-4e22-ba50-4d39fff6910f)
 
